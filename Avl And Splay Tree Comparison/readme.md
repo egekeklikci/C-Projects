@@ -10,3 +10,8 @@ A single rotation in AVL trees costs one time unit (tu) (which is equal to the c
 keys), while a double rotation costs two tu's. A splay in splay trees costs as many tu's as the number of depth
 levels the nodes have moved through. In Splay trees, on the other hand, there will be rotations after reading
 each character from the text . 
+## How to run
+This program can only be executed by console. Example code for making an executable in console:\
+```gcc avlAndSplayComparison.c -o avlAndSplayComparison.exe```\
+And then in order to run:\
+```./avlAndSplayComparison.exe sample_input1.txt```
