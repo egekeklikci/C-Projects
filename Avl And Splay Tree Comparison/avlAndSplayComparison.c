@@ -421,7 +421,7 @@ void printPreOrderAvl(avlPointer root) {
 
 int main(int argc, const char* argv[]){
     if (argc == 1) {
-        printf("Error message!");
+        printf("Please use the terminal.");
     }
     if (argc >= 2) {
 //         open input file
